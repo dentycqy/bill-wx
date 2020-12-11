@@ -1,0 +1,13 @@
+
+.translucent {
+	border: none !important;
+	background-color: rgba(0, 0, 0, 0);
+}
+.uni-input-placeholder {
+	color: #ffffff;
+}
+uni-input,
+.uni-input-input {
+	color: #ffffff;
+}
+

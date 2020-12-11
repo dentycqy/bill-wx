@@ -1,0 +1,56 @@
+[{
+	"name": "吃饭",
+	"color": "#ff5566",
+	"color1": "#ef473a",
+	"icon":"chifan"
+}, {
+	"name": "零食",
+	"color": "#68cf39",
+	"color1": "#a8e063",
+	"icon":"lingshi"
+}, {
+	"name": "交通",
+	"color": "#373b44",
+	"color1": "#4286f4",
+	"icon":"jiaotong"
+}, {
+	"name": "抽烟",
+	"color": "#544a7d",
+	"color1": "#ffd452",
+	"icon":"yan"
+}, {
+	"name": "购物",
+	"color": "#39e6a7",
+	"color1": "#49c7b9",
+	"icon":"gouwu"
+}, {
+	"name": "房租",
+	"color": "#ad5389",
+	"color1": "#960ae7",
+	"icon":"fangzu"
+}, {
+	"name": "日用",
+	"color": "#4ca1af",
+	"color1": "#c4e0e5",
+	"icon":"riyong"
+}, {
+	"name": "买菜",
+	"color": "#6ac937",
+	"color1": "#96c93d",
+	"icon":"chifan"
+}, {
+	"name": "游戏",
+	"color": "#bd3cdd",
+	"color1": "#3806dd",
+	"icon":"youxi"
+}, {
+	"name": "饮料",
+	"color": "#9fcbcb",
+	"color1": "#87cbad",
+	"icon":"maicai"
+}, {
+	"name": "出差",
+	"color": "#cbad01",
+	"color1": "#f55033",
+	"icon":"chuchai"
+}]

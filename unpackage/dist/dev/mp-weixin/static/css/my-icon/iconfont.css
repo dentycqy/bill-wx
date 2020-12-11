@@ -1,0 +1,64 @@
+@font-face {
+	font-family: rmb;
+	src: url('~@/static/css/my-icon/iconfont.ttf');
+}
+
+.rmb {
+	font-family: rmb !important;
+}
+
+.rmb-chuchai:before {
+	content: "\ed50";
+}
+
+.rmb-maicai:before {
+	content: "\e606";
+}
+
+.rmb-youxi:before {
+	content: "\e643";
+}
+
+.rmb-yinliao:before {
+	content: "\e691";
+}
+
+.rmb-riyong:before {
+	content: "\e71b";
+}
+
+.rmb-fangzu:before {
+	content: "\e763";
+}
+
+.rmb-chifan:before {
+	content: "\e63f";
+}
+
+.rmb-gouwu:before {
+	content: "\e640";
+}
+
+.rmb-fushi:before {
+	content: "\e641";
+}
+
+.rmb-jiaotong:before {
+	content: "\e642";
+}
+
+.rmb-huafei:before {
+	content: "\e646";
+}
+
+.rmb-lingshi:before {
+	content: "\e647";
+}
+
+.rmb-shuma:before {
+	content: "\e64b";
+}
+
+.rmb-yan:before {
+	content: "\e609";
+}

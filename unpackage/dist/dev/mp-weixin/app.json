@@ -1,0 +1,48 @@
+{
+  "pages": [
+    "pages/add/add",
+    "pages/index/index",
+    "pages/user/user"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "ColorUi for UniApp",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "color": "#8F8F94",
+    "selectedColor": "#39b54a",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/img/tab/list.png",
+        "selectedIconPath": "static/img/tab/list-fill.png",
+        "text": "记录"
+      },
+      {
+        "pagePath": "pages/add/add",
+        "iconPath": "static/img/tab/cart.png",
+        "selectedIconPath": "static/img/tab/cart-fill.png",
+        "text": "用钱"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/img/tab/user.png",
+        "selectedIconPath": "static/img/tab/user-fill.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {},
+  "uniStatistics": {
+    "enable": true
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  },
+  "sitemapLocation": "sitemap96.json"
+}
